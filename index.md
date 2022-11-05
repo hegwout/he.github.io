@@ -1,8 +1,6 @@
 ## Search
 <hr>
-<script>
-    alert(0)
-</script>
+ 
 <form action="https://www.baidu.com/" target="_blank">
 <div >
     <input type="text" name="q" placeholder="Search here" > <br/>
